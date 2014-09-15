@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EnergyInfo"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/fixedwidthfield-1.0.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/jakarta-commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
